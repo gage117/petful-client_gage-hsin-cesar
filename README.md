@@ -2,9 +2,9 @@
 
 Live: https://petful-project.now.sh/
 
-Client Repo: https://github.com/hsinlinghu1101/Petful-Hsin-client.git
+Client Repo: https://github.com/gage117/petful-client_gage-hsin-cesar
 
-API Repo: https://github.com/hsinlinghu1101/Petful-Hsin-server.git
+API Repo: https://github.com/gage117/https-github.com-gage117-petful-server_gage-hsin-cesar
 
 Introduction
 
@@ -21,4 +21,4 @@ Screenshots
 
 ![adoption](https://user-images.githubusercontent.com/47201201/81895572-66f93680-9567-11ea-8162-af11e3828069.png)
 
-Author: Hsin Ling HU
+Authors: Hsin Ling HU, Gage Eide, Cesar Hernandez
