@@ -4,7 +4,7 @@ Live: https://petful-project.now.sh/
 
 Client Repo: https://github.com/gage117/petful-client_gage-hsin-cesar
 
-API Repo: https://github.com/gage117/https-github.com-gage117-petful-server_gage-hsin-cesar
+API Repo: https://github.com/gage117/petful-server_gage-hsin-cesar
 
 Introduction
 
